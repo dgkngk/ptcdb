@@ -1,4 +1,4 @@
-# PTCDB
+# ptcdb
 
 This dataset is created as a citational graph dataset, to be used with a graph
 citational network implementation such as
