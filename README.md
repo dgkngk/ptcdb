@@ -6,7 +6,7 @@ citational network implementation such as
 [Kipf & Welling's paper](https://arxiv.org/abs/1609.02907) for more information
 about graph convolutional networks.
 
-##Usage
+## Usage
 
 Under data batches file, there are 4 batches that we generated from USPTO patent
 database files. Under the example implementation file, there is an
@@ -16,7 +16,7 @@ the Cora dataset, we modified it to use the patent citation dataset with the
 same format as the Cora's. We also added an SVM test to compare the two
 implementations with.
 
-##Setup
+## Setup
 
 ```
 $ cd example_implementation
