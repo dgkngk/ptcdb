@@ -20,7 +20,7 @@ implementations with.
 
 ```
 $ cd example_implementation
-$ python setup.py
+$ python setup.py install
 $ cd pygcn
 $ python train.py
 ```
